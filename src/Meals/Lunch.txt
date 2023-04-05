@@ -1,0 +1,5 @@
+Monday ,hi
+Tuesday,2
+Friday ,2
+Saturday,244
+Monday ,hi

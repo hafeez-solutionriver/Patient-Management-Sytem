@@ -1,0 +1,12 @@
+Day	,	Food Name 
+Monday     ,	1
+Tuesday     ,	1
+Wenesday  ,	1
+Thursday    ,	1
+Friday        ,	1
+Saturday    ,	1
+Sunday	,	1
+Day	,	Food Name 
+Monday \	Chocolate
+Day	,	Food Name 
+Tuesday\	ommelette
